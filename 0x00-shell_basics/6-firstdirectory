@@ -1,2 +1,2 @@
-#1/bin/bash
-mkdir 
+#!/bin/bash
+mkdir
