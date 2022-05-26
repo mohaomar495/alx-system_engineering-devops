@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x go-rwx hello
+sudo chmod -R 757 hello
