@@ -1,2 +1,13 @@
-#!/bin/bash
-echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+total 36
+drwxr-xr-x 2 root root 198 May 30 10:19 .
+drwxr-xr-x 6 root root 142 May 30 07:06 ..
+-rwxr--r-- 1 root root  30 May 30 07:13 0-hello_world
+-rwxr--r-- 1 root root  28 May 30 09:00 1-confused_smiley
+-rwxr--r-- 1 root root  28 May 30 09:23 2-hellofile
+-rwxr--r-- 1 root root  39 May 30 09:27 3-twofiles
+-rwxr--r-- 1 root root  29 May 30 09:32 4-lastlines
+-rwxr--r-- 1 root root  29 May 30 09:35 5-firstlines
+-rwxr--r-- 1 root root  40 May 30 09:47 6-third_line
+-rwxr--r-- 1 root root   0 May 30 10:29 7-file
+-rwxr--r-- 1 root root  36 May 30 10:24 8-cwd_state
+-rw-r--r-- 1 root root  12 May 30 07:10 README.md
