@@ -1,2 +1,2 @@
 #!/bin/bash
--type d ! -path . -print | wc -|
+fing . -type d ! -path . -print | wc -1
