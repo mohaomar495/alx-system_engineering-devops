@@ -1,2 +1,2 @@
 #!/bin/bash
-<command>; if [[ "$?" = 0 ]]; then echo ':)'; else echo ':('; fi
+if [[ "$?" = 0 ]]; then echo ':0'; else echo ':('; fi
