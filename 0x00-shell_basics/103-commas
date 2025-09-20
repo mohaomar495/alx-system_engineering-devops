@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "./, ../, "; ls -Ap | sort -V | paste -sd, - | sed 's/,/, /g'
+printf "./, ../, "
+ls -Ap | sort -V | paste -sd, - | sed 's/,/, /g'
